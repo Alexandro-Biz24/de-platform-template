@@ -16,9 +16,9 @@ the end of the course it holds the platform your group defends orally:
 
 | Name | GitHub | Role |
 |---|---|---|
-| | | |
-| | | |
-| | | |
+| Alexandro | https://github.com/Alexandro-Biz24| Head of Julius|
+| Julius | | Head of Léonard|
+| Léonard | | Head of Alexandro|
 | | | |
 
 ## How this repo grows
