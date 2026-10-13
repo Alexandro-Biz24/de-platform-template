@@ -18,7 +18,7 @@ the end of the course it holds the platform your group defends orally:
 |---|---|---|
 | Alexandro | https://github.com/Alexandro-Biz24| Head of Julius|
 | Julius | | Head of Léonard|
-| Léonard | | Head of Alexandro|
+| Léonard | | Head of coffee and cocoa trading & chief of staff especially Julius and Alexandro sometimes often|
 | | | |
 
 ## How this repo grows

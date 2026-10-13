@@ -1,0 +1,204 @@
+{
+    "buyer": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "carrier": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "cart": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "cart_items": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "category": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "customer": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "customer_payment": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "customer_shipping": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "daily_deals": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "discount": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "order_items": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "orders": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned",
+            "by_order_date"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "payment": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned",
+            "by_method"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "payment_details": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "product": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned",
+            "by_category_id"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "product_images": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "product_reviews": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "returns": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "review": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned",
+            "by_rating",
+            "by_seller_product_flag",
+            "by_seller_product_flag_then_rating"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "review_images": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "seller": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned",
+            "by_seller_type"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "seller_products": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "seller_reviews": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "shipment": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned",
+            "by_est_delivery_date",
+            "by_carrier_id"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "shipping_details": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned",
+            "by_country",
+            "by_state",
+            "by_country_then_state"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "subscription": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned",
+            "by_start_date"
+        ],
+        "reason": "TO_COMPLETE"
+    },
+    "wishlist_item": {
+        "selected_layout": "unpartitioned",
+        "available_layouts": [
+            "unpartitioned"
+        ],
+        "reason": "TO_COMPLETE"
+    }
+}

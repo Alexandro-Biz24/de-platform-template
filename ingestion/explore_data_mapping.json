@@ -1,0 +1,98 @@
+{
+    "buyer": [
+        null
+    ],
+    "carrier": [
+        null 
+
+    ],
+    "cart": [
+        null
+    ],
+    "cart_items": [
+        null
+    ],
+    "category": [
+        null
+    ],
+    "customer": [
+        null 
+    ],
+    "customer_payment": [
+        null
+    ],
+    "customer_shipping": [
+      null
+    ],
+    "daily_deals": [
+      null,
+      ["deal_date"]
+    ],
+    "discount": [
+      null
+    ],
+    "order_items": [
+      null
+    ],
+    "orders": [
+      null,
+      ["order_date"]
+    ],
+    "payment": [
+      null,
+      ["method"]
+    ],
+    "payment_details": [
+        null
+    ],
+    "product": [
+        null, 
+        ["category_id"]
+    ],
+    "product_images": [
+        null
+    ],
+    "product_reviews": [
+        null
+    ],
+    "returns": [
+        null
+    ],
+    "review": [
+      null,
+      ["rating"],
+      ["seller_product_flag"],
+      ["seller_product_flag", "rating"]
+    ],
+    "review_images": [
+        null
+    ],
+    "seller": [
+        null, 
+        ["seller_type"]
+    ],
+    "seller_products": [
+        null
+    ],
+    "seller_reviews": [
+        null
+    ],
+    "shipment": [
+      null,
+      ["est_delivery_date"],
+      ["carrier_id"]
+    ],
+    "shipping_details": [
+      null,
+      ["country"],
+      ["state"],
+      ["country", "state"]
+    ],
+    "subscription": [
+      null,
+      ["start_date"]
+    ],
+    "wishlist_item": [
+        null
+    ]
+}
